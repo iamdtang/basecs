@@ -1,0 +1,181 @@
+[{
+  "href": "https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa?source=---------1----------------",
+  "title": "Bits, Bytes, Building With Binary",
+  "date": "2017-01-02T18:06:03.798Z"
+}, {
+  "href": "https://medium.com/basecs/hexs-and-other-magical-numbers-9785bc26b7ee?source=---------0----------------",
+  "title": "Hexes and Other Magical Numbers",
+  "date": "2017-01-09T11:02:01.559Z"
+}, {
+  "href": "https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d?source=---------24----------------",
+  "title": "What’s a Linked List, Anyway? [Part 1]",
+  "date": "2017-01-16T17:20:48.300Z"
+}, {
+  "href": "https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996?source=---------23----------------",
+  "title": "What’s a Linked List, Anyway? [Part 2]",
+  "date": "2017-01-23T11:02:01.291Z"
+}, {
+  "href": "https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67?source=---------22----------------",
+  "title": "Stacks and Overflows",
+  "date": "2017-01-30T11:32:00.517Z"
+}, {
+  "href": "https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04?source=---------21----------------",
+  "title": "To Queue Or Not To Queue",
+  "date": "2017-02-06T11:02:02.040Z"
+}, {
+  "href": "https://medium.com/basecs/how-to-not-be-stumped-by-trees-5f36208f68a7?source=---------20----------------",
+  "title": "How To Not Be Stumped By Trees",
+  "date": "2017-02-13T11:02:01.557Z"
+}, {
+  "href": "https://medium.com/basecs/leaf-it-up-to-binary-trees-11001aaf746d?source=---------22----------------",
+  "title": "Leaf It Up To Binary Trees",
+  "date": "2017-02-20T22:28:02.900Z"
+}, {
+  "href": "https://medium.com/basecs/looking-for-the-logic-behind-logarithms-9e79d7666dda?source=---------21----------------",
+  "title": "Looking For The Logic Behind Logarithms",
+  "date": "2017-02-27T17:22:48.988Z"
+}, {
+  "href": "https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8?source=---------18----------------",
+  "title": "A Gentle Introduction To Graph Theory",
+  "date": "2017-03-20T11:02:01.556Z"
+}, {
+  "href": "https://medium.com/basecs/k%C3%B6nigsberg-seven-small-bridges-one-giant-graph-problem-2275d1670a12?source=---------6----------------",
+  "title": "Königsberg: Seven Small Bridges, One Giant Graph Problem",
+  "date": "2017-03-27T19:08:05.410Z"
+}, {
+  "href": "https://medium.com/basecs/demystifying-depth-first-search-a7c14cccf056?source=---------19----------------",
+  "title": "Demystifying Depth-First Search",
+  "date": "2017-04-03T12:02:01.201Z"
+}, {
+  "href": "https://medium.com/basecs/breaking-down-breadth-first-search-cebe696709d9?source=---------18----------------",
+  "title": "Breaking Down Breadth-First Search",
+  "date": "2017-04-10T15:27:37.589Z"
+}, {
+  "href": "https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0?source=---------17----------------",
+  "title": "Taking Hash Tables Off The Shelf",
+  "date": "2017-04-17T15:15:38.743Z"
+}, {
+  "href": "https://medium.com/basecs/hashing-out-hash-functions-ea5dd8beb4dd?source=---------16----------------",
+  "title": "Hashing Out Hash Functions",
+  "date": "2017-04-24T13:01:08.409Z"
+}, {
+  "href": "https://medium.com/basecs/set-theory-the-method-to-database-madness-5ec4b4f05d79?source=---------15----------------",
+  "title": "Set Theory: the Method To Database Madness",
+  "date": "2017-05-01T15:51:36.567Z"
+}, {
+  "href": "https://medium.com/basecs/sorting-out-the-basics-behind-sorting-algorithms-b0a032873add?source=---------17----------------",
+  "title": "Sorting Out The Basics Behind Sorting Algorithms",
+  "date": "2017-05-08T15:45:42.017Z"
+}, {
+  "href": "https://medium.com/basecs/exponentially-easy-selection-sort-d7a34292b049?source=---------16----------------",
+  "title": "Exponentially Easy Selection Sort",
+  "date": "2017-05-16T15:44:57.420Z"
+}, {
+  "href": "https://medium.com/basecs/bubbling-up-with-bubble-sorts-3df5ac88e592?source=---------15----------------",
+  "title": "Bubbling Up With Bubble Sorts",
+  "date": "2017-05-22T15:40:22.032Z"
+}, {
+  "href": "https://medium.com/basecs/inching-towards-insertion-sort-9799274430da?source=---------14----------------",
+  "title": "Inching Towards Insertion Sort",
+  "date": "2017-05-29T17:54:18.142Z"
+}, {
+  "href": "https://medium.com/basecs/making-sense-of-merge-sort-part-1-49649a143478?source=---------13----------------",
+  "title": "Making Sense of Merge Sort [Part 1]",
+  "date": "2017-06-05T15:46:22.688Z"
+}, {
+  "href": "https://medium.com/basecs/making-sense-of-merge-sort-part-2-be8706453209?source=---------12----------------",
+  "title": "Making Sense of Merge Sort [Part 2]",
+  "date": "2017-06-12T11:31:02.182Z"
+}, {
+  "href": "https://medium.com/basecs/pivoting-to-understand-quicksort-part-1-75178dfb9313?source=---------11----------------",
+  "title": "Pivoting To Understand Quicksort [Part 1]",
+  "date": "2017-06-19T15:47:37.252Z"
+}, {
+  "href": "https://medium.com/basecs/pivoting-to-understand-quicksort-part-2-30161aefe1d3?source=---------10----------------",
+  "title": "Pivoting To Understand Quicksort [Part 2]",
+  "date": "2017-06-26T12:02:00.051Z"
+}, {
+  "href": "https://medium.com/basecs/learning-to-love-heaps-cef2b273a238?source=---------14----------------",
+  "title": "Learning to Love Heaps",
+  "date": "2017-07-03T16:16:17.828Z"
+}, {
+  "href": "https://medium.com/basecs/heapify-all-the-things-with-heap-sort-55ee1c93af82?source=---------9----------------",
+  "title": "Heapify All The Things With Heap Sort",
+  "date": "2017-07-13T16:04:00.866Z"
+}, {
+  "href": "https://medium.com/basecs/counting-linearly-with-counting-sort-cd8516ae09b3?source=---------8----------------",
+  "title": "Counting Linearly With Counting Sort",
+  "date": "2017-07-17T16:04:46.388Z"
+}, {
+  "href": "https://medium.com/basecs/getting-to-the-root-of-sorting-with-radix-sort-f8e9240d4224?source=---------5----------------",
+  "title": "Getting To The Root Of Sorting With Radix Sort",
+  "date": "2017-07-24T15:52:48.658Z"
+}, {
+  "href": "https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014?source=---------13----------------",
+  "title": "Trying to Understand Tries",
+  "date": "2017-07-31T16:27:09.287Z"
+}, {
+  "href": "https://medium.com/basecs/compressing-radix-trees-without-too-many-tears-a2e658adb9a0?source=---------12----------------",
+  "title": "Compressing Radix Trees Without (Too Many) Tears",
+  "date": "2017-08-07T17:25:53.378Z"
+}, {
+  "href": "https://medium.com/basecs/the-little-avl-tree-that-could-86a3cae410c7?source=---------11----------------",
+  "title": "The Little AVL Tree That Could",
+  "date": "2017-08-15T14:22:57.947Z"
+}, {
+  "href": "https://medium.com/basecs/finding-fibonacci-in-golden-trees-1c8967b1f47a?source=---------10----------------",
+  "title": "Finding Fibonacci In Golden Trees",
+  "date": "2017-08-22T05:52:21.841Z"
+}, {
+  "href": "https://medium.com/basecs/painting-nodes-black-with-red-black-trees-60eacb2be9a5?source=---------9----------------",
+  "title": "Painting Nodes Black With Red-Black Trees",
+  "date": "2017-08-28T16:15:42.842Z"
+}, {
+  "href": "https://medium.com/basecs/busying-oneself-with-b-trees-78bbf10522e7?source=---------8----------------",
+  "title": "Busying Oneself With B-Trees",
+  "date": "2017-09-04T12:01:12.499Z"
+}, {
+  "href": "https://medium.com/basecs/from-theory-to-practice-representing-graphs-cfd782c5be38?source=---------7----------------",
+  "title": "From Theory To Practice: Representing Graphs",
+  "date": "2017-09-11T15:48:30.953Z"
+}, {
+  "href": "https://medium.com/basecs/going-broad-in-a-graph-bfs-traversal-959bd1a09255?source=---------6----------------",
+  "title": "Going Broad In A Graph: BFS Traversal",
+  "date": "2017-09-18T20:27:38.771Z"
+}, {
+  "href": "https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13?source=---------5----------------",
+  "title": "Deep Dive Through A Graph: DFS Traversal",
+  "date": "2017-09-25T11:31:01.457Z"
+}, {
+  "href": "https://medium.com/basecs/spinning-around-in-cycles-with-directed-acyclic-graphs-a233496d4688?source=---------4----------------",
+  "title": "Spinning Around In Cycles With Directed Acyclic Graphs",
+  "date": "2017-10-02T17:46:50.304Z"
+}, {
+  "href": "https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e?source=---------3----------------",
+  "title": "Finding The Shortest Path, With A Little Help From Dijkstra",
+  "date": "2017-10-17T05:28:26.571Z"
+}, {
+  "href": "https://medium.com/basecs/less-repetition-more-dynamic-programming-43d29830a630?source=---------2----------------",
+  "title": "Less Repetition, More Dynamic Programming",
+  "date": "2017-10-24T16:28:49.916Z"
+}, {
+  "href": "https://medium.com/basecs/the-trials-and-tribulations-of-the-traveling-salesman-56048d6709d?source=---------1----------------",
+  "title": "The Trials And Tribulations Of The Traveling Salesman",
+  "date": "2017-11-06T21:07:56.871Z"
+}, {
+  "href": "https://medium.com/basecs/speeding-up-the-traveling-salesman-using-dynamic-programming-b76d7552e8dd?source=---------0----------------",
+  "title": "Speeding Up The Traveling Salesman Using Dynamic Programming",
+  "date": "2017-11-13T17:44:01.437Z"
+}, {
+  "href": "https://medium.com/basecs/grammatically-rooting-oneself-with-parse-trees-ec9daeda7dad?source=---------1----------------",
+  "title": "Grammatically Rooting Oneself With Parse Trees",
+  "date": "2017-11-20T22:02:22.571Z"
+}, {
+  "href": "https://medium.com/basecs/reading-code-right-with-some-help-from-the-lexer-63d0be3d21d?source=---------0----------------",
+  "title": "Reading Code Right, With Some Help From The Lexer",
+  "date": "2017-11-27T13:01:01.316Z"
+}, {
+  "href": "https://medium.com/basecs/leveling-up-ones-parsing-game-with-asts-d7a6fc2400ff?source=---------0----------------",
+  "title": "Leveling Up One’s Parsing Game With ASTs",
+  "date": "2017-12-05T03:59:31.088Z"
+}]
