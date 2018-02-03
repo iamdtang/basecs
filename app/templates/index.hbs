@@ -1,3 +1,14 @@
-{{#each model as |post index|}}
+<form>
+  <div class="form-group row">
+    <div class="col-sm-12">
+      <input
+        type="search"
+        class="form-control form-control-lg"
+        placeholder="Search"
+        oninput={{action "filterPosts" value="target.value"}}>
+    </div>
+  </div>
+</form>
+{{#each posts as |post index|}}
   {{post-card post=post index=index}}
 {{/each}}
